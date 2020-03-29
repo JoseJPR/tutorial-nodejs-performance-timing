@@ -1,0 +1,26 @@
+{
+  "name": "tutorial-nodejs-performance-timing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/tutorial-nodejs-performance-timing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/tutorial-nodejs-performance-timing/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/tutorial-nodejs-performance-timing#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
