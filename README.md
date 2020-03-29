@@ -20,7 +20,7 @@ Official Documentation: [NodeJS | Performance Timing API](https://nodejs.org/api
 
 The following video shows how you can get the time that the require function need for each module.
 
-[![Video](./assets/youtube.svg)](https://youtu.be/XXXXXXXXXXXXXX)
+[![Video](./assets/youtube.svg)](https://youtu.be/6J2knxcVSuY)
 
 ## ⛅️ Develop in the Cloud
 
