@@ -22,7 +22,7 @@
 
 ## 🔖 Description
 
-The **⏳Startup Time** for an HTTP server is very important. The time it takes for the NodeJS application to be running will also depend on the time it takes to import the modules that the application needs.
+The **⏳Startup Time** for a HTTP Server or CLI Apps is very important. The time it takes for the NodeJS application to be running will also depend on the time it takes to import the modules that the application needs.
 
 The Performance Timing API provides an implementation of the W3C Performance Timeline specification. The purpose of the API is to support collection of high resolution performance metrics.
 
