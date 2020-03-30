@@ -1,18 +1,31 @@
-# Tutorial NodeJS Performance Timing
+<p align="center">
+  <br />
+  <img src="./assets/banner.png" width="500" />
+</p>
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![Twitter: JoseJ_PR](https://img.shields.io/twitter/url?color=1991DA&label=Twitter%20%40JoseJ_PR&logo=twitter&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FJoseJ_PR)](https://twitter.com/JoseJ_PR)
-[![Github: Sponsors](https://img.shields.io/twitter/url?color=032f62&label=Github%20Sponsors%20%40JoseJPR&logo=github&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fsponsors%2FJoseJPR)](https://github.com/sponsors/JoseJPR)
+<h1 align="center">Tutorial NodeJS Performance Timing</h1>
 
-![Banner](./assets/banner.png)
+<p align="center">With this Tutorial you can create a NodeJS Application CLI for get the time that the require function need for each module.</p>
+
+<p align="center">
+  <a title="MIT License" href="LICENSE">
+    <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
+  </a>
+  <a title="Twitter: JoseJ_PR" href="https://twitter.com/JoseJ_PR">
+    <img src="https://img.shields.io/twitter/url?color=1991DA&label=Twitter%20%40JoseJ_PR&logo=twitter&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FJoseJ_PR">
+  </a>  
+  <a title="Github: Sponsors" href="https://github.com/sponsors/JoseJPR">
+    <img src="https://img.shields.io/twitter/url?color=032f62&label=Github%20Sponsors%20%40JoseJPR&logo=github&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fsponsors%2FJoseJPR">
+  </a>
+  <br />
+  <br />
+</p>
 
 ## 🔖 Description
 
 The **⏳Startup Time** for an HTTP server is very important. The time it takes for the NodeJS application to be running will also depend on the time it takes to import the modules that the application needs.
 
 The Performance Timing API provides an implementation of the W3C Performance Timeline specification. The purpose of the API is to support collection of high resolution performance metrics.
-
-With this Tutorial you can create a NodeJS Application CLI for get the time that the require function need for each module.
 
 Official Documentation: [NodeJS | Performance Timing API](https://nodejs.org/api/perf_hooks.html)
 
@@ -68,9 +81,8 @@ $npm run start
 ```any
 /
 ├── assets 🌈               # Images Sources.
-├── src 📦                  # Main App with Server and Client.
-|   ├── first-demo          # Demo with broadcast demo server sending randoms message to all clients.
-|   ├── second-demo         # Demo with a client sending random message via server to all other clients.
+├── src 📦                  # Main App with forks process.
+|   ├── subprocess          # Process to launch by "fork" and calculate times..
 |   └── ...
 └── ...
 ```
