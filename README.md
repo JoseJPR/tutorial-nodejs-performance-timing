@@ -1,6 +1,5 @@
 <p align="center">
-  <br />
-  <img src="./assets/banner.png" width="500" />
+  <img src="./assets/banner.png" width="600" />
 </p>
 
 <h1 align="center">Tutorial NodeJS Performance Timing</h1>
