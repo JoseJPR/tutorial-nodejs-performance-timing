@@ -7,7 +7,7 @@
 <p align="center">With this tutorial you can create a NodeJS Application CLI which calculates how long the 'require' function takes for each module.</p>
 
 <p align="center">
-  <a title="MIT License" href="LICENSE">
+  <a title="MIT License" href="LICENSE.md">
     <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
   </a>
   <a title="Twitter: JoseJ_PR" href="https://twitter.com/JoseJ_PR">
