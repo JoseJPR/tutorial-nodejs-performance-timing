@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" width="600" />
 </p>
 
-<h1 align="center">Tutorial NodeJS Performance Timing</h1>
+<h1 align="center">Tutorial Nodejs Performance Timing</h1>
 
 <p align="center">With this tutorial you can create a NodeJS Application CLI which calculates how long the 'require' function takes for each module.</p>
 
@@ -22,7 +22,7 @@
 
 ## 🔖 Description
 
-The **⏳Startup Time** for an HTTP Server or CLI Apps is super important. The time it takes for the NodeJS application to be up and running will also depends on the time it takes to import the modules that the application requires.
+The **⏳Startup Time** for an HTTP Server or CLI Apps is super important. The time it takes for the Nodejs application to be up and running will also depends on the time it takes to import the modules that the application requires.
 
 The Performance Timing API provides an implementation of the W3C Performance Timeline specification. The purpose of the API is to support the collection of high resolution performance metrics.
 
@@ -59,7 +59,7 @@ In order to work with this project, your local environment must have at least th
 
 You have to do the following steps to be able to work with this project.
 
-### 1️⃣ Install NodeJS Dependencies
+### 1️⃣ Install Nodejs Dependencies
 
 To work with this project locally it is necessary to install the NPM dependencies.
 
